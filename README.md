@@ -77,4 +77,4 @@ COSA **NON** FA DOSINT (LIMITI IMPORTANTI):
 - NON effettua attacchi informatici o scansioni invasive contro i bersagli; interroga solo fonti e archivi che hanno già indicizzato quel dato pubblicamente.
 
 
-https://dosint.it ! Official
+https://dosint.it | Official
